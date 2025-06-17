@@ -1,0 +1,19 @@
+.Main {
+    -fx-background-color: lightblue;
+    -fx-alignment: CENTER;
+    -fx-spacing: 10;
+}
+
+.Subject {
+    -fx-font-size: 50;
+    -fx-font-weight: 3;
+    -fx-stroke: gold;
+    -fx-stroke-width: 3;
+}
+
+.Button {
+    -fx-font-size: 20;
+    -fx-text-fill: WHITE;
+    -fx-background-color: darkblue;
+    -fx-pref-width: 200;
+}
